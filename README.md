@@ -9,8 +9,8 @@ Part 2. jQuery: http://www.codecademy.com/tracks/jquery
 Part 3. Node.js: http://nodeschool.io/
 
 Collab IDE:
-Nitrous: https://www.nitrous.io/app#/boxes/160861
-(Please feel free to create your own private Nitrous IDE but we'll use this one to collaborate)
+Nitrous: https://www.nitrous.io/
+Please feel free to create your own private Nitrous IDE but we'll use this one to collaborate. We'll use collab mode with each other's IDEs in order to assist but we'll use our own private IDEs in order to fork the shared codebase and make modifications.
 
 Practice: 
 - http://jsfiddle.net/ or http://regex101.com/#javascript

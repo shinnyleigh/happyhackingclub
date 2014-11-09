@@ -19,4 +19,5 @@ Practice:
 
 Members
 ================  
-https://github.com/sschulte
+sschulte
+

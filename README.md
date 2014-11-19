@@ -17,9 +17,9 @@ Practice:
 - http://www.codewars.com/  
 - https://www.shortcutfoo.com/app/dojos/git   
 
-<<<<<<< HEAD
 Members
 ============
 https://github.com/sheabrennan  
 https://github.com/Hub51  
+https://github.com/sschulte
 

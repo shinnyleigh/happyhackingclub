@@ -21,5 +21,5 @@ Members
 ============
 https://github.com/sheabrennan  
 https://github.com/Hub51  
-https://github.com/sschulte  
+https://github.com/shinnyleigh  
 https://github.com/pixelsnbits
